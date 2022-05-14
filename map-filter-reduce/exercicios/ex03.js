@@ -18,9 +18,6 @@ function callback(item) {
     return item % 2 === 0;
 }
 
-const par = {};
-const impar = {};
-
 const meuArray = [1, 23, 55, 67, 30, 2, 4];
 
 console.log('Sem filter: ' + meuArray);
