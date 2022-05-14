@@ -20,6 +20,4 @@ function callback(item) {
 
 const meuArray = [1, 23, 55, 67, 30, 2, 4];
 
-console.log('Sem filter: ' + meuArray);
-console.log('Com filter, caso seja par: ' + filtraArray(meuArray));
-console.log('Com filter, caso seja ímpar: ' + filtraArray(meuArray));
+console.log(filtraArray(meuArray));
