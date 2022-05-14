@@ -6,7 +6,7 @@ Aula: Na prática - Parte 1
 Código: MHM0MV_rDwo
 URL: https://www.youtube.com/embed/MHM0MV_rDwo
 ---
-Método: mapComThis
+Método: Map com This
 
 */
 const maca = {

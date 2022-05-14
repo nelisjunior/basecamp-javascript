@@ -6,11 +6,11 @@ Aula: Na prática - Parte 2
 Código: i3bgUGL6xBQ
 URL: https://www.youtube.com/embed/i3bgUGL6xBQ
 ---
-Método: mapComThis
+Método: Map sem This
 
 */
 
-function mapSemThis(arr, thisArg) {
+function mapSemThis(arr) {
     return arr.map(function(item){
         return item * 2;
     });
