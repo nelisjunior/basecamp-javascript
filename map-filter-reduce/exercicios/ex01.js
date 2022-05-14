@@ -1,12 +1,12 @@
 /* 
 Curso: Javascript - Map, Filter e Reduce
-C?digo:
+Código:
 ---
-Aula: Na pr?tica - Parte 1
-C?digo: MHM0MV_rDwo
+Aula: Na prática - Parte 1
+Código: MHM0MV_rDwo
 URL: https://www.youtube.com/embed/MHM0MV_rDwo
 ---
-M?todo: mapComThis
+Método: mapComThis
 
 */
 const maca = {
@@ -25,6 +25,6 @@ function mapComThis(arr, thisArg) {
     }, thisArg)
 }
 
-console.log('this -> ma��', mapComThis(nums, maca));
+console.log('this -> ma??', mapComThis(nums, maca));
 
 console.log('this -> laranja', mapComThis(nums, laranja));
