@@ -1,0 +1,4 @@
+{
+    "files.autoGuessEncoding": true,
+    "C_Cpp.clang_format_style": "webkit"
+}
